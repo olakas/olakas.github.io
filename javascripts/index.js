@@ -9,7 +9,7 @@ $(function () {
 // Titles for videos page
 const index = ["The Chainsmokers Asia Recap", "Lay - Sheep (Alan Walker Relift)",
     "Alexander Rybak - Thats how you write a song (Music video)", "Chris Abolade - Tranquilo (Music video)", "Gromee Ft Jesper Jenset", "Chris Abolade - Ford Bronco (Music video)", "Broslo city (YouTube series)",  "Madcon - Drimmedua", "Camilla Phil Hair", "Alan Walker Merch Promo",
-    "Madcon - Shoo (Music video)", "Camilla Phil HOY", "Erik Og Kriss - Leker deilig", "Stray", "Alan Walker documentary", "Dsound - Mr. Unicorn", "Jns - Spill (Music Video)", "JNS - GRÅTER UTEN TÅRER (Music Video)"];
+    "Madcon - Shoo (Music video)", "Camilla Phil HOY", "Erik og Kriss - Leker deilig", "Stray", "Alan Walker documentary", "Dsound - Mr. Unicorn", "Jns - Spill (Music Video)", "JNS - GRÅTER UTEN TÅRER (Music Video)"];
 
 let path = window.location.pathname;
 console.log(path);
