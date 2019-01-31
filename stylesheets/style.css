@@ -26,23 +26,10 @@ h1 a {
 h2{
     text-align: center;
 }
-h3{
-    color: lightyellow;
-    text-align: center;
-    font-size: 15px;
-    background-color: black;
-    padding: 20px; 
-    border-radius: 25px;
-    font-family: inherit;
-}
-p {
-    font-size: 20px;
-    text-align: center;
-    background-color: black;
-    padding: 20px; 
-    border-radius: 25px;
-    }
 
+p, h3 {
+    display: table;
+}
 /*******
 *Navbar*
 *******/
@@ -185,18 +172,22 @@ ul li a{
     height: 100%;
 }
 
+
 .video p{
-    margin: 0 auto 0 auto;
-    width: 30em;
-    padding-top: 1vw;
+    margin: 20px auto 20px auto;
+    background-color: black;
+    padding: 20px;
+    border-radius: 25px;
+    color: lightyellow;
 }
 
-.video p, h2{
+.video #videodescription, h2{
     font-family: "Helvetica Neue", Helvetica ,Arial, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color:lemonchiffon;
 }
+
 /******
 *About*
 ******/
