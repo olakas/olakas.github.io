@@ -5,16 +5,10 @@
 |Kassen-Portfolio
 |
 |
-+---bin
-+---docs
-+---node_modules
-+---PUBLIC
-|   |
-|   |
-|   \---JAVASCRIPTS
-|   +---STATIC
-|   +---stylesheets
-|   +---WORK
+\---JAVASCRIPTS
++---STATIC
++---stylesheets
++---WORK
 ```
 ### Adding Thumbnails
 ##### The important folders here are static and work.
